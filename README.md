@@ -6,5 +6,5 @@ There will be three tracks parallel to one another. Coins, props and obstacles a
 The development process entails the construction of the gaming scenes, mouse-input mechanism and action control of the character, interactions among the characters and the props, and random generations of the scenes. Camera-vibration and smooth-following are realized, UI and sound effects are set up to improve the details of the game and gaming experience. 
 
 ## Screenshots
-![image](https://github.com/landiveo/3D-Parkour-Game/blob/master/images/3dgame2.jpeg)
-![image](https://github.com/landiveo/3D-Parkour-Game/blob/master/images/3dgame1.jpeg)
+![image](images/3dgame2.jpeg)
+![image](images/3dgame1.jpeg)
